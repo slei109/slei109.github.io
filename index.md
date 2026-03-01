@@ -4,32 +4,43 @@ layout: homepage
 
 ## About Me
 
-I am a research scientist at Sony Research. I received my Ph.D. in Computer Science at Virginia Tech under the supervision of Prof. [Chang-Tien Lu](https://people.cs.vt.edu/ctlu/). I received an M.Sc. degree and a B.A. degree in Software Engineering at Beihang University. My research interests are in the broad area of machine learning with a particular focus on learning with limited labeled data, including few-/zero-shot learning, self-learning with uncertainty analysis, and applications in computer vision and natural language processing tasks such as semantic segmentation and text classification. 
-
-## Research Interests
-
-- **Computer Vision:** few-/zero-shot classification, semantic segmentation
-- **Natural Language Processing:** multilingual
-- **Machine Learning:** meta-learning, robust model learning
+I am a research scientist at Sony Research. I received my Ph.D. in Computer Science at Virginia Tech under the supervision of Prof. [Chang-Tien Lu](https://people.cs.vt.edu/ctlu/). I received an M.Sc. degree and a B.A. degree in Software Engineering at Beihang University. My research interests are in the broad area of machine learning with a particular focus on learning with limited labeled data, including few-/zero-shot learning, uncertainty-aware modeling, and applications in computer vision and natural language processing tasks such as semantic segmentation and text classification. 
 
 ## News
 
+- **[Dec. 2025]** One paper was accepted by Information Fusion.
+- **[Dec. 2024]** One paper was accepted by NeurIPS 2024.
+- **[Jun. 2024]** One paper was accepted by NAACL 2024.
+- **[Apr. 2024]** One paper was accepted by ICASSP 2024.
+- **[Nov. 2023]** One paper was accepted by SIGGRAPH 2023.
+- **[Aug. 2023]** One paper was accepted by KDD 2023.
 - **[May 2023]** One paper was accepted by ACL 2023.
 - **[Jul. 2022]** One paper was accepted by ECCV 2022.
 - **[Jun. 2022]** One paper was accepted by Neurocomputing.
-- **[May. 2022]** One paper was accepted by NAACL 2022.
-- **[Aug. 2021]** One paper was accepted by ICCVW 2021.
-- **[Jul. 2021]** One paper was accepted by TKDD.
-- **[Mar. 2021]** One paper was accepted by ICME 2021.
+- **[May 2022]** One paper was accepted by NAACL 2022.
 
 ## Publications
 
 [comment]: <> (First Author)
+- **[NeurIPS 24] Dc-gaussian: Improving 3d gaussian splatting for reflective dash cam videos**
+  <br>
+  Linhan Wang, Kai Cheng, **Shuo Lei**, Shengkun Wang, Wei Yin, Chenyang Lei, Xiaoxiao Long, Chang-Tien Lu.
+  <br>
+  Advances in Neural Information Processing Systems 37 (2024).
+  <br>
+
+- **[NAACL 24] Uncertainty estimation on sequential labeling via uncertainty transmission**
+  <br>
+  Jianfeng He, Linlin Yu, **Shuo Lei**, Chang-Tien Lu, Feng Chen.
+  <br>
+  In Findings of the Association for Computational Linguistics: NAACL 2024.
+  <br>
+  
 - **[ACL'23] TART: Improved Few-shot Text Classification Using Task-Adaptive Reference Transformation**
   <br>
   **Shuo Lei**, Xuchao Zhang, Jianfeng He, Fanglan Chen and Chang-Tien Lu.
   <br>
-  The 61st Annual Meeting of the Association for Computational Linguistics(ACL), Toronto, Canada, July 9-14, 2023 (Accepted)
+  The 61st Annual Meeting of the Association for Computational Linguistics(ACL), Toronto, Canada, July 9-14, 2023
   <br>
   
 - **[ECCV'22] Cross-Domain Few-Shot Semantic Segmentation**
