@@ -26,7 +26,7 @@ I am a research scientist at Sony Research. I received my Ph.D. in Computer Scie
   <br>
   Linhan Wang, Kai Cheng, **Shuo Lei**, Shengkun Wang, Wei Yin, Chenyang Lei, Xiaoxiao Long, Chang-Tien Lu.
   <br>
-  Advances in Neural Information Processing Systems 37 (2024).  [\[paper\]]([https://aclanthology.org/2023.acl-long.617.pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/b51b50262b492dd89bb9cd3105a46702-Paper-Conference.pdf)) [\[code\]](https://github.com/linhanwang/DC-Gaussian)
+  Advances in Neural Information Processing Systems 37 (2024).  [\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2024/file/b51b50262b492dd89bb9cd3105a46702-Paper-Conference.pdf) [\[code\]](https://github.com/linhanwang/DC-Gaussian)
   <br>
 
 - **[NAACL 24] Uncertainty estimation on sequential labeling via uncertainty transmission**
