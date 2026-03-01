@@ -26,21 +26,21 @@ I am a research scientist at Sony Research. I received my Ph.D. in Computer Scie
   <br>
   Linhan Wang, Kai Cheng, **Shuo Lei**, Shengkun Wang, Wei Yin, Chenyang Lei, Xiaoxiao Long, Chang-Tien Lu.
   <br>
-  Advances in Neural Information Processing Systems 37 (2024).
+  Advances in Neural Information Processing Systems 37 (2024).  [\[paper\]]([https://aclanthology.org/2023.acl-long.617.pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/b51b50262b492dd89bb9cd3105a46702-Paper-Conference.pdf)) [\[code\]](https://github.com/linhanwang/DC-Gaussian)
   <br>
 
 - **[NAACL 24] Uncertainty estimation on sequential labeling via uncertainty transmission**
   <br>
   Jianfeng He, Linlin Yu, **Shuo Lei**, Chang-Tien Lu, Feng Chen.
   <br>
-  In Findings of the Association for Computational Linguistics: NAACL 2024.
+  In Findings of the Association for Computational Linguistics: NAACL 2024.  [\[paper\]](https://aclanthology.org/2024.findings-naacl.180.pdf) [\[code\]](https://github.com/he159ok/UncSeqLabeling_SLPN)
   <br>
   
 - **[ACL'23] TART: Improved Few-shot Text Classification Using Task-Adaptive Reference Transformation**
   <br>
   **Shuo Lei**, Xuchao Zhang, Jianfeng He, Fanglan Chen and Chang-Tien Lu.
   <br>
-  The 61st Annual Meeting of the Association for Computational Linguistics(ACL), Toronto, Canada, July 9-14, 2023
+  The 61st Annual Meeting of the Association for Computational Linguistics(ACL), Toronto, Canada, July 9-14, 2023. [\[paper\]](https://aclanthology.org/2023.acl-long.617.pdf) [\[code\]](https://github.com/slei109/TART)
   <br>
   
 - **[ECCV'22] Cross-Domain Few-Shot Semantic Segmentation**
